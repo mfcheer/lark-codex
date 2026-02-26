@@ -1,0 +1,5 @@
+repos:
+  - name: aoi-service
+    local_path: /Users/me/work/aoi-service
+    allowed: true
+    default_branch: main
